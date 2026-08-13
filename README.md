@@ -12,7 +12,7 @@
 - 💻 **Programador Iniciante** apaixonado por tecnologia e desenvolvimento web
 - 🎨 Adoro criar layouts com **HTML & CSS** e dar vida a sites
 - 🐘 Atualmente mergulhando no mundo do backend com **PHP**
-- 🦊 Integrante da comunidade **Furry**! (Adoro arte, personagens e criatividade)
+- 🦊 Integrante da comunidade **Furry**! (Adoro arte, personagens e a criatividade presente)
 
 ---
 
@@ -50,9 +50,9 @@
 ### 📫 Conecte-se Comigo!
 
 - 💬 Pergunte-me sobre: **HTML, CSS, ideias de projetos web ou universo furry!**
-- 🎨 Fursona: **[Nome da sua Fursona / Espécie]**
+- 🎨 Fursona: **Miako e Jumpy**
 - ✉️ Email: `umcaranormaloficial2@gmail.com` e `luisgustavodosanjosfranco@gmail.com`
-- 🎮 Discord: ``
+- 🎮 Discord: `eu.miako`
 
 ---
 
