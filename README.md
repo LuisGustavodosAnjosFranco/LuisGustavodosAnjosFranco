@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o [Seu Nome / Fursona]!
+# 👋 Olá! Eu sou o Luís Gustavo! (ou Miako)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Desenvolvedor+Web+Iniciante+%F0%9F%92%BB;Estudante+de+Tubar%C3%A3o+-+SC+%F0%9F%8F%EB;Aprendendo+PHP+%F0%9F%90%98;Membro+da+Comunidade+Furry+%F0%9F%90%BE" alt="Typing SVG" />
